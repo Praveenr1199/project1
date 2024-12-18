@@ -1,0 +1,23 @@
+Devops
+
+Linux
+
+What is Linux?
+Operating system same as windows
+free and open source os with high security
+Multiuser based
+os - it is a software interface b/w hardware and to  the user
+to run programs and applications 
+
+GIT - Global information tracker
+it's project folder
+It is version control system vcs or source code management scm
+
+vcs
+version 1.0  version 2.0  version3.o ~ updates
+
+It will maintain multi versions of the same file.
+It is a platform dependent
+It is free and open source
+they can handle large project efficiently
+they save time and developers can fetch and create pull requests without switching.
